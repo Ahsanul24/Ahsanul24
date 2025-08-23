@@ -19,7 +19,7 @@
 
 <!-- Total solved -->
 <p>
-  <img src="https://img.shields.io/badge/TOTAL%20PROBLEMS%20SOLVED-~2000-2E8B57?style=for-the-badge" alt="~2000">
+  <img src="https://img.shields.io/badge/TOTAL%20PROBLEMS%20SOLVED-~2200-2E8B57?style=for-the-badge" alt="~2000">
 </p>
 
 ---
@@ -55,7 +55,7 @@
   <a href="https://vjudge.net/user/ahsanul_24" title="Vjudge">
   <img src="https://i.ibb.co/kcyXj9D/11b24ab2156955d8f3fa.png" alt="11b24ab2156955d8f3fa" height="40px" width="60px"/>
 </a>
-  <a href="https://cses.fi/problemset/user/210277 title="CSES">
+  <a href="https://cses.fi/user/210277" title="CSES">
    <img src="https://i.ibb.co/RSQVcq7/cses.jpg" alt="cses" height="40px" width="70px"/>
   </a>
 </p>

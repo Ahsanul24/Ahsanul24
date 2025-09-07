@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/ATCODER-15-708090?style=for-the-badge" alt="15">
   </a>
   <a href="https://leetcode.com/Ahsanul_Imam">
-    <img src="https://img.shields.io/badge/LEETCODE-0-696969?style=for-the-badge&logo=leetcode&logoColor=white" alt="0">
+    <img src="https://img.shields.io/badge/LEETCODE-0-696969?style=for-the-badge&logo=leetcode&logoColor=white" alt="1569">
   </a>
 </p>
 
